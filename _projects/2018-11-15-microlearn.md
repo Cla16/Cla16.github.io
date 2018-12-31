@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projects
 title: "Microlearn"
 date: 2018-11-15
 ---
